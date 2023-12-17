@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135953595876",
+    "project_id": "medi-connect-system",
+    "storage_bucket": "medi-connect-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135953595876:android:6c24d426f59872d4869bf1",
+        "android_client_info": {
+          "package_name": "com.example.medi_connect_android_version"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1zCSgTid2qydLRW082ahu8tII2lVteY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
